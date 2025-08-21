@@ -1,0 +1,677 @@
+{
+    "initial_position": {
+        "lesson_num": 2
+    },
+    "initial_rotation": {
+        "lesson_num": 2
+    },
+    "number_of_full_spots": {
+        "lesson_num": 4
+    },
+    "CarParking": {
+        "checkpoints": [
+            {
+                "steps": 499920,
+                "file_path": "results\\V6\\CarParking\\CarParking-499920.onnx",
+                "reward": 0.9974034303113034,
+                "creation_time": 1755609487.8850906,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-499920.pt"
+                ]
+            },
+            {
+                "steps": 999762,
+                "file_path": "results\\V6\\CarParking\\CarParking-999762.onnx",
+                "reward": 1.172830186106942,
+                "creation_time": 1755609839.28067,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-999762.pt"
+                ]
+            },
+            {
+                "steps": 1499812,
+                "file_path": "results\\V6\\CarParking\\CarParking-1499812.onnx",
+                "reward": 1.26780292019248,
+                "creation_time": 1755610189.2378385,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-1499812.pt"
+                ]
+            },
+            {
+                "steps": 1999875,
+                "file_path": "results\\V6\\CarParking\\CarParking-1999875.onnx",
+                "reward": 1.468447751232556,
+                "creation_time": 1755610538.5244513,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-1999875.pt"
+                ]
+            },
+            {
+                "steps": 2499931,
+                "file_path": "results\\V6\\CarParking\\CarParking-2499931.onnx",
+                "reward": 1.4552360491489802,
+                "creation_time": 1755610888.476728,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-2499931.pt"
+                ]
+            },
+            {
+                "steps": 2999877,
+                "file_path": "results\\V6\\CarParking\\CarParking-2999877.onnx",
+                "reward": 1.461883082985878,
+                "creation_time": 1755611243.4702668,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-2999877.pt"
+                ]
+            },
+            {
+                "steps": 3499872,
+                "file_path": "results\\V6\\CarParking\\CarParking-3499872.onnx",
+                "reward": 1.7348831735159223,
+                "creation_time": 1755611593.5729825,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-3499872.pt"
+                ]
+            },
+            {
+                "steps": 3999826,
+                "file_path": "results\\V6\\CarParking\\CarParking-3999826.onnx",
+                "reward": 1.7067390648704586,
+                "creation_time": 1755611943.6715004,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-3999826.pt"
+                ]
+            },
+            {
+                "steps": 4499797,
+                "file_path": "results\\V6\\CarParking\\CarParking-4499797.onnx",
+                "reward": 1.8567086778661257,
+                "creation_time": 1755612293.3091574,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-4499797.pt"
+                ]
+            },
+            {
+                "steps": 4999776,
+                "file_path": "results\\V6\\CarParking\\CarParking-4999776.onnx",
+                "reward": 1.9570613799204353,
+                "creation_time": 1755612641.47283,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-4999776.pt"
+                ]
+            },
+            {
+                "steps": 5499890,
+                "file_path": "results\\V6\\CarParking\\CarParking-5499890.onnx",
+                "reward": 2.134593381331517,
+                "creation_time": 1755612996.6551325,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-5499890.pt"
+                ]
+            },
+            {
+                "steps": 5999827,
+                "file_path": "results\\V6\\CarParking\\CarParking-5999827.onnx",
+                "reward": 2.5728537188635934,
+                "creation_time": 1755613347.241102,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-5999827.pt"
+                ]
+            },
+            {
+                "steps": 6499771,
+                "file_path": "results\\V6\\CarParking\\CarParking-6499771.onnx",
+                "reward": 2.5662740454261685,
+                "creation_time": 1755613696.867365,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-6499771.pt"
+                ]
+            },
+            {
+                "steps": 6999924,
+                "file_path": "results\\V6\\CarParking\\CarParking-6999924.onnx",
+                "reward": 2.695582690147253,
+                "creation_time": 1755614049.5050619,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-6999924.pt"
+                ]
+            },
+            {
+                "steps": 7499999,
+                "file_path": "results\\V6\\CarParking\\CarParking-7499999.onnx",
+                "reward": 2.8669365344838025,
+                "creation_time": 1755614400.5854774,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-7499999.pt"
+                ]
+            },
+            {
+                "steps": 7999954,
+                "file_path": "results\\V6\\CarParking\\CarParking-7999954.onnx",
+                "reward": 2.558126298280863,
+                "creation_time": 1755614758.2454367,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-7999954.pt"
+                ]
+            },
+            {
+                "steps": 8499969,
+                "file_path": "results\\V6\\CarParking\\CarParking-8499969.onnx",
+                "reward": 2.2388870703677335,
+                "creation_time": 1755615107.7720888,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-8499969.pt"
+                ]
+            },
+            {
+                "steps": 8999982,
+                "file_path": "results\\V6\\CarParking\\CarParking-8999982.onnx",
+                "reward": 2.426735786518248,
+                "creation_time": 1755615460.059365,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-8999982.pt"
+                ]
+            },
+            {
+                "steps": 9499852,
+                "file_path": "results\\V6\\CarParking\\CarParking-9499852.onnx",
+                "reward": 2.786788841230529,
+                "creation_time": 1755615800.2297752,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-9499852.pt"
+                ]
+            },
+            {
+                "steps": 9999972,
+                "file_path": "results\\V6\\CarParking\\CarParking-9999972.onnx",
+                "reward": 2.706564566984619,
+                "creation_time": 1755616126.526078,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-9999972.pt"
+                ]
+            },
+            {
+                "steps": 10499855,
+                "file_path": "results\\V6\\CarParking\\CarParking-10499855.onnx",
+                "reward": 3.1877516017240635,
+                "creation_time": 1755616499.8533423,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-10499855.pt"
+                ]
+            },
+            {
+                "steps": 10999959,
+                "file_path": "results\\V6\\CarParking\\CarParking-10999959.onnx",
+                "reward": 2.7645365128150354,
+                "creation_time": 1755616868.7099316,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-10999959.pt"
+                ]
+            },
+            {
+                "steps": 11499970,
+                "file_path": "results\\V6\\CarParking\\CarParking-11499970.onnx",
+                "reward": 2.997043109279338,
+                "creation_time": 1755617224.3080947,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-11499970.pt"
+                ]
+            },
+            {
+                "steps": 11999907,
+                "file_path": "results\\V6\\CarParking\\CarParking-11999907.onnx",
+                "reward": 2.924895177890615,
+                "creation_time": 1755617588.995431,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-11999907.pt"
+                ]
+            },
+            {
+                "steps": 12499991,
+                "file_path": "results\\V6\\CarParking\\CarParking-12499991.onnx",
+                "reward": 2.9977119738015077,
+                "creation_time": 1755617942.831507,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-12499991.pt"
+                ]
+            },
+            {
+                "steps": 12999806,
+                "file_path": "results\\V6\\CarParking\\CarParking-12999806.onnx",
+                "reward": 1.9494434768954914,
+                "creation_time": 1755618301.8773673,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-12999806.pt"
+                ]
+            },
+            {
+                "steps": 13456806,
+                "file_path": "results\\V6\\CarParking\\CarParking-13456806.onnx",
+                "reward": null,
+                "creation_time": 1755618609.3821895,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-13456806.pt"
+                ]
+            },
+            {
+                "steps": 13499940,
+                "file_path": "results\\V6\\CarParking\\CarParking-13499940.onnx",
+                "reward": 1.3286559759061547,
+                "creation_time": 1755619948.195749,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-13499940.pt"
+                ]
+            },
+            {
+                "steps": 13999936,
+                "file_path": "results\\V6\\CarParking\\CarParking-13999936.onnx",
+                "reward": 2.2302471704483033,
+                "creation_time": 1755620775.000607,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-13999936.pt"
+                ]
+            },
+            {
+                "steps": 14499842,
+                "file_path": "results\\V6\\CarParking\\CarParking-14499842.onnx",
+                "reward": 2.623042024426408,
+                "creation_time": 1755621615.2698915,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-14499842.pt"
+                ]
+            },
+            {
+                "steps": 14999872,
+                "file_path": "results\\V6\\CarParking\\CarParking-14999872.onnx",
+                "reward": 2.608915061704696,
+                "creation_time": 1755622384.7469459,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-14999872.pt"
+                ]
+            },
+            {
+                "steps": 15499982,
+                "file_path": "results\\V6\\CarParking\\CarParking-15499982.onnx",
+                "reward": 2.9376460104375273,
+                "creation_time": 1755623233.3115036,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-15499982.pt"
+                ]
+            },
+            {
+                "steps": 15999951,
+                "file_path": "results\\V6\\CarParking\\CarParking-15999951.onnx",
+                "reward": 2.7306878014614706,
+                "creation_time": 1755624155.908059,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-15999951.pt"
+                ]
+            },
+            {
+                "steps": 16499944,
+                "file_path": "results\\V6\\CarParking\\CarParking-16499944.onnx",
+                "reward": 2.7142413603943707,
+                "creation_time": 1755625083.384449,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-16499944.pt"
+                ]
+            },
+            {
+                "steps": 16999852,
+                "file_path": "results\\V6\\CarParking\\CarParking-16999852.onnx",
+                "reward": 2.9864216226170646,
+                "creation_time": 1755626009.800661,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-16999852.pt"
+                ]
+            },
+            {
+                "steps": 17499976,
+                "file_path": "results\\V6\\CarParking\\CarParking-17499976.onnx",
+                "reward": 2.977561868127735,
+                "creation_time": 1755626915.421077,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-17499976.pt"
+                ]
+            },
+            {
+                "steps": 17999958,
+                "file_path": "results\\V6\\CarParking\\CarParking-17999958.onnx",
+                "reward": 3.0556262537189154,
+                "creation_time": 1755627812.195348,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-17999958.pt"
+                ]
+            },
+            {
+                "steps": 18475569,
+                "file_path": "results\\V6\\CarParking\\CarParking-18475569.onnx",
+                "reward": 2.396803190225157,
+                "creation_time": 1755628626.921642,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-18475569.pt"
+                ]
+            },
+            {
+                "steps": 18499784,
+                "file_path": "results\\V6\\CarParking\\CarParking-18499784.onnx",
+                "reward": 2.073365981831695,
+                "creation_time": 1755630054.949364,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-18499784.pt"
+                ]
+            },
+            {
+                "steps": 18999826,
+                "file_path": "results\\V6\\CarParking\\CarParking-18999826.onnx",
+                "reward": 2.45962903944686,
+                "creation_time": 1755631041.8830638,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-18999826.pt"
+                ]
+            },
+            {
+                "steps": 19499947,
+                "file_path": "results\\V6\\CarParking\\CarParking-19499947.onnx",
+                "reward": 2.7173842119007574,
+                "creation_time": 1755632038.0296502,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-19499947.pt"
+                ]
+            },
+            {
+                "steps": 19999953,
+                "file_path": "results\\V6\\CarParking\\CarParking-19999953.onnx",
+                "reward": 2.682904310358895,
+                "creation_time": 1755633029.5106897,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-19999953.pt"
+                ]
+            },
+            {
+                "steps": 20499822,
+                "file_path": "results\\V6\\CarParking\\CarParking-20499822.onnx",
+                "reward": 2.8879780063955045,
+                "creation_time": 1755634011.4704475,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-20499822.pt"
+                ]
+            },
+            {
+                "steps": 20999943,
+                "file_path": "results\\V6\\CarParking\\CarParking-20999943.onnx",
+                "reward": 3.09825125699721,
+                "creation_time": 1755634992.4974525,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-20999943.pt"
+                ]
+            },
+            {
+                "steps": 21499993,
+                "file_path": "results\\V6\\CarParking\\CarParking-21499993.onnx",
+                "reward": 3.180702915020061,
+                "creation_time": 1755636019.163729,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-21499993.pt"
+                ]
+            },
+            {
+                "steps": 21999911,
+                "file_path": "results\\V6\\CarParking\\CarParking-21999911.onnx",
+                "reward": 3.0991758716867324,
+                "creation_time": 1755637077.5726697,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-21999911.pt"
+                ]
+            },
+            {
+                "steps": 22499999,
+                "file_path": "results\\V6\\CarParking\\CarParking-22499999.onnx",
+                "reward": 3.3532799278696377,
+                "creation_time": 1755638052.217923,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-22499999.pt"
+                ]
+            },
+            {
+                "steps": 22999966,
+                "file_path": "results\\V6\\CarParking\\CarParking-22999966.onnx",
+                "reward": 2.9731479508536203,
+                "creation_time": 1755638988.9490514,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-22999966.pt"
+                ]
+            },
+            {
+                "steps": 23499994,
+                "file_path": "results\\V6\\CarParking\\CarParking-23499994.onnx",
+                "reward": 3.3204360057704183,
+                "creation_time": 1755639942.6837761,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-23499994.pt"
+                ]
+            },
+            {
+                "steps": 23999895,
+                "file_path": "results\\V6\\CarParking\\CarParking-23999895.onnx",
+                "reward": 2.804213523864746,
+                "creation_time": 1755640947.0147614,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-23999895.pt"
+                ]
+            },
+            {
+                "steps": 24499850,
+                "file_path": "results\\V6\\CarParking\\CarParking-24499850.onnx",
+                "reward": 3.038353060522387,
+                "creation_time": 1755641914.208239,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-24499850.pt"
+                ]
+            },
+            {
+                "steps": 24999874,
+                "file_path": "results\\V6\\CarParking\\CarParking-24999874.onnx",
+                "reward": 3.1085001846839644,
+                "creation_time": 1755642864.966462,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-24999874.pt"
+                ]
+            },
+            {
+                "steps": 25499880,
+                "file_path": "results\\V6\\CarParking\\CarParking-25499880.onnx",
+                "reward": 3.0525715327125855,
+                "creation_time": 1755643895.3688104,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-25499880.pt"
+                ]
+            },
+            {
+                "steps": 25999904,
+                "file_path": "results\\V6\\CarParking\\CarParking-25999904.onnx",
+                "reward": 3.573344825358873,
+                "creation_time": 1755644886.1507921,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-25999904.pt"
+                ]
+            },
+            {
+                "steps": 26499761,
+                "file_path": "results\\V6\\CarParking\\CarParking-26499761.onnx",
+                "reward": 3.453279312919168,
+                "creation_time": 1755645850.963172,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-26499761.pt"
+                ]
+            },
+            {
+                "steps": 26999967,
+                "file_path": "results\\V6\\CarParking\\CarParking-26999967.onnx",
+                "reward": 3.5505995459334794,
+                "creation_time": 1755646799.6617296,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-26999967.pt"
+                ]
+            },
+            {
+                "steps": 27499851,
+                "file_path": "results\\V6\\CarParking\\CarParking-27499851.onnx",
+                "reward": 3.709019694147231,
+                "creation_time": 1755647755.4607363,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-27499851.pt"
+                ]
+            },
+            {
+                "steps": 27999960,
+                "file_path": "results\\V6\\CarParking\\CarParking-27999960.onnx",
+                "reward": 3.648811772780076,
+                "creation_time": 1755648658.254556,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-27999960.pt"
+                ]
+            },
+            {
+                "steps": 28499923,
+                "file_path": "results\\V6\\CarParking\\CarParking-28499923.onnx",
+                "reward": 3.5874905063093996,
+                "creation_time": 1755649607.9663277,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-28499923.pt"
+                ]
+            },
+            {
+                "steps": 28707334,
+                "file_path": "results\\V6\\CarParking\\CarParking-28707334.onnx",
+                "reward": 3.4879004003165606,
+                "creation_time": 1755650008.662627,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-28707334.pt"
+                ]
+            },
+            {
+                "steps": 28999925,
+                "file_path": "results\\V6\\CarParking\\CarParking-28999925.onnx",
+                "reward": 3.54324645241255,
+                "creation_time": 1755677806.7176723,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-28999925.pt"
+                ]
+            },
+            {
+                "steps": 29499960,
+                "file_path": "results\\V6\\CarParking\\CarParking-29499960.onnx",
+                "reward": 3.524868244633955,
+                "creation_time": 1755678182.9759178,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-29499960.pt"
+                ]
+            },
+            {
+                "steps": 29999940,
+                "file_path": "results\\V6\\CarParking\\CarParking-29999940.onnx",
+                "reward": 3.761173681590868,
+                "creation_time": 1755678562.2002838,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-29999940.pt"
+                ]
+            },
+            {
+                "steps": 30499973,
+                "file_path": "results\\V6\\CarParking\\CarParking-30499973.onnx",
+                "reward": 3.827962057654922,
+                "creation_time": 1755678935.753243,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-30499973.pt"
+                ]
+            },
+            {
+                "steps": 30999999,
+                "file_path": "results\\V6\\CarParking\\CarParking-30999999.onnx",
+                "reward": 3.658789158798754,
+                "creation_time": 1755679302.6998158,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-30999999.pt"
+                ]
+            },
+            {
+                "steps": 31499903,
+                "file_path": "results\\V6\\CarParking\\CarParking-31499903.onnx",
+                "reward": 4.154063671827316,
+                "creation_time": 1755679658.744993,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-31499903.pt"
+                ]
+            },
+            {
+                "steps": 31999852,
+                "file_path": "results\\V6\\CarParking\\CarParking-31999852.onnx",
+                "reward": 3.7518752956964883,
+                "creation_time": 1755680029.5305753,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-31999852.pt"
+                ]
+            },
+            {
+                "steps": 32499957,
+                "file_path": "results\\V6\\CarParking\\CarParking-32499957.onnx",
+                "reward": 3.672602347507598,
+                "creation_time": 1755680412.1028821,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-32499957.pt"
+                ]
+            },
+            {
+                "steps": 32999961,
+                "file_path": "results\\V6\\CarParking\\CarParking-32999961.onnx",
+                "reward": 3.6562029293980367,
+                "creation_time": 1755680785.8898003,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-32999961.pt"
+                ]
+            },
+            {
+                "steps": 33499977,
+                "file_path": "results\\V6\\CarParking\\CarParking-33499977.onnx",
+                "reward": 3.755980165756267,
+                "creation_time": 1755681163.8769896,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-33499977.pt"
+                ]
+            },
+            {
+                "steps": 33999920,
+                "file_path": "results\\V6\\CarParking\\CarParking-33999920.onnx",
+                "reward": 3.4140444608295666,
+                "creation_time": 1755681548.797961,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-33999920.pt"
+                ]
+            },
+            {
+                "steps": 34109772,
+                "file_path": "results\\V6\\CarParking\\CarParking-34109772.onnx",
+                "reward": 3.7799521424742633,
+                "creation_time": 1755681630.352032,
+                "auxillary_file_paths": [
+                    "results\\V6\\CarParking\\CarParking-34109772.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 34109772,
+            "file_path": "results\\V6\\CarParking.onnx",
+            "reward": 3.7799521424742633,
+            "creation_time": 1755681630.352032,
+            "auxillary_file_paths": [
+                "results\\V6\\CarParking\\CarParking-34109772.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
