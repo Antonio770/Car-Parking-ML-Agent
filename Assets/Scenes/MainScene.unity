@@ -532,7 +532,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2703845813731099123, guid: abf95e97b1322fd428245176cece009f, type: 3}
       propertyPath: fullParkingSpotCount
-      value: 0
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 3519647632714480116, guid: abf95e97b1322fd428245176cece009f, type: 3}
       propertyPath: m_Model
@@ -2517,7 +2517,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1400098772
 MonoBehaviour:
   m_ObjectHideFlags: 0
